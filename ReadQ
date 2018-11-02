@@ -1,0 +1,6 @@
+Passing objects as an argument through a function and returning a object also ,write a program to add two complex number X and Y to produce a third complex number Z and display all the three Complex Number. Use friend function to implement the problem.
+
+12.Create a class Box containing Len, Br and Ht as data members. Use constructors for taking input and overload the following operators :
+(i)“++” to increment all data
+(ii) “+” to add corresponding data members of two Box class objects.
+Use display () method to display the appropriate outputs.
