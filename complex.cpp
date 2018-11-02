@@ -1,3 +1,5 @@
+//Passing objects as an argument through a function and returning a object also ,write a program to add two complex number X and Y to produce a third complex number Z and display all the three Complex Number. Use friend function to implement the problem.
+
 #include<iostream>
 using namespace std;
 class complex
@@ -38,4 +40,3 @@ c3=sum(c1,c2);
 c3.display();
 return 0;
 }
-
